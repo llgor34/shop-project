@@ -1,0 +1,3 @@
+# shop-project
+Shop project made in React.JS while learning from course.
+Very very simple one...
